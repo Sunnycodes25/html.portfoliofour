@@ -1,0 +1,39 @@
+body{
+    display: block;
+    font-family: sans-serif;
+}
+
+.pattaya-regular {
+    font-family: "Pattaya", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  h1{
+    font-family: "Pattaya",sans-serif;
+  }
+
+h2{
+    font-family: sans-serif;
+}
+
+  .lead{
+    font-size: 1.5rem;
+    font-family: "Pattaya",sans-serif;
+      }
+
+.top-container{
+    background-color: #DFF2EB;
+}
+
+.middle-container{
+    background-color: #B9E5E8;
+}
+
+.bottom-container{
+    background-color: #7AB2D3;
+}
+
+.btn{
+    background-color: #227B94;
+}
